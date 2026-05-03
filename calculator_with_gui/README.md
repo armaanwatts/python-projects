@@ -32,8 +32,3 @@ A modern, aesthetic calculator built using Python and Tkinter with a neon-style 
 
 ---
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/neon-calculator.git
